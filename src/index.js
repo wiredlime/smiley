@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Counter from "./Counter.js";
+import Smiley from "./Smiley.js";
 
-ReactDOM.render(<Counter />, document.getElementById("root"));
+ReactDOM.render(<Smiley />, document.getElementById("root"));
